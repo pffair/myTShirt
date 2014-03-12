@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">T恤来潮</string>
+
+    <!-- menu -->
+    <string name="myOrder">我的订单</string>
+    <string name="myFeedBack">我要反馈</string>
+    <string name="aboutUs">关于我们</string>
+    <string name="logout">注销</string>
+	<string name="login">登录</string>
+</resources>
